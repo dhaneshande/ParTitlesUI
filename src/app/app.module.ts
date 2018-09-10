@@ -2,7 +2,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import { HttpClientModule } from '@angular/common/http';
 import { AppComponent } from './Components/app-component/app.component';
-
+//comments
 @NgModule({
   declarations: [
     AppComponent
